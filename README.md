@@ -11,6 +11,8 @@ It is a native app developed in Kotlin, with the following technologies:
 - Jetpack Compose
 - Compose Navigation
 - Coil
+- MVVM
+- Clean Architecture
 
 <h3 align="left">
   <img align="left" width="200" src="https://github.com/laclave96/restaurant/blob/main/screenshots/1.jpg">
